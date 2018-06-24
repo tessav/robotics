@@ -50,3 +50,6 @@ trajectory | **occdist_scale** | weighting for how much the controller should at
 ## Results
 
 ## Discussion
+
+## Reference
+[Navigation Guide](http://kaiyuzheng.me/documents/navguide.pdf)
