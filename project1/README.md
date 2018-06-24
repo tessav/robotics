@@ -20,7 +20,7 @@ Classes used:
 ### Sample Images
 $2            |  $5 | $10 | Background
 :-------------:|:-----------:| :-------------:|:-----------:
-![test]()  |  ![test]() | ![test]()  |  ![test]()
+![two](data/two_dollars/IMG_8462.JPG) | ![five](data/five_dollars/IMG_8544.JPG) | ![ten](data/ten_dollars/IMG_8380.JPG)  |  ![background](data/background/IMG_8802.JPG)
 
 
 Using different backgrounds, lighting and angles, 100 photos of each cash denominations were being captured and then resized to 256 x 256 for training with GoogLeNet. To increase the training size and to improve the accuracy of the model, the dataset was augmented by rotating the images by 90, 180 and 270 degrees. This resulted in 400 images for each class. 
