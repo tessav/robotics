@@ -42,3 +42,7 @@ Sample Prediction 1  |  Sample Prediction 2
 
 ## Discussion
 The high accuracy of the model could be due to data quality (zoomed in shots of the notes and less noise) and the simple shape and colors of the notes. Considering the use case stipulated in the introduction, this is likely sufficient as the user will most likely hold up a note to the camera of a phone, or place the money on a table and capture the image in close range.<br>
+### Next Steps
+- the images can be augmented further to account for more settings and light intensity
+- coin denominations can be also be classified to extend use case
+- image segmentation to allow user to recognize multiple cash denominations at one go
